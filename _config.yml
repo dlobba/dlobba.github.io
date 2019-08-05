@@ -1,1 +1,26 @@
-theme: jekyll-theme-minimal
+title: dlobba Web Page
+author: ""
+email: diego.lobba [at] studenti.unitn.it
+
+encoding: UTF-8
+theme: minima
+
+description: >
+  A tiny overview on my projects,
+  both on Github and in the real life (if ever).
+
+show_excerpts: false
+
+github_username: dlobba
+linkedin_username: diego-lobba
+
+
+# for minima 3 if (ever upgrading)
+minima:
+  social_links:
+    github: lol   
+    
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true

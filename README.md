@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/dlobba/dlobba.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About
+I am Diego Lobba, a master student at University of Trento.
+I have a very broad set of interests involving the information
+technology universe.
 
-### Markdown
+Currently I am interested in the topic of
+wireless sensor networks and distributed systems.
+Other than this, I love to automate stuff like testing scripts or
+to do text extraction for some further processing.
+For these my tool of choice is usually Python.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can find a glimpse of this by
+looking at my repos. In this page instead
+I try to add some presentations or resources, in general,
+to present what I find to be cool about what I have done.
 
-```markdown
-Syntax highlighted code block
+### Contacts
 
-# Header 1
-## Header 2
-### Header 3
+If you find a bug or have some fancy project in mind in which
+you need my help, do not hesitate to contact me!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dlobba/dlobba.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* diego.lobba [at] studenti.unitn.it
