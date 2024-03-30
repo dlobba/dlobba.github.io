@@ -1,3 +1,8 @@
+---
+published: true
+order: 3
+---
+
 # About
 
 *Hi there!*
@@ -70,11 +75,3 @@ Diego
 *PS:* I am always curious to hear from others' experiences, if you
 feel like sharing yours do not hesitate to reach out through
 my contacts.
-
-### Contacts
-
-If you have some fancy project in mind and you are looking
-for a energetic and genuinely fun collaborator chances are
-you have found it, so do not hesitate to contact me!
-
-* diego.lobba [at] gmail.com
