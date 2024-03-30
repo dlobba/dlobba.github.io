@@ -1,13 +1,15 @@
-title: dlobba Web Page
-author: ""
-email: diego.lobba [at] gmail.com
+title: Diego's Corner on the Net
+
+author:
+  name: Diego Lobba
+  email: diego.lobba [at] gmail.com
 
 encoding: UTF-8
 theme: minima
 
 description: >
-  A tiny overview on my projects,
-  both on Github and in the real life.
+  My tiny space on the internet.
+  Opinions are my own.
 
 show_excerpts: false
 
