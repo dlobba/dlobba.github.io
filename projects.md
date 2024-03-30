@@ -20,5 +20,5 @@ list of the publications to which I had the pleasure to contribute.
 * [Tree-based any-to-any routing]({{ site .url }}/resources/wsn_report.pdf)  
   Wireless Sensor Networks course project, University of Trento, March 2019
   
-* [Wikipedia time analysis using the Apache Sparkframework]({{ site .url }}/resources/big_data_report.pdf)  
+* [Wikipedia time analysis using the Apache Spark framework]({{ site .url }}/resources/big_data_report.pdf)  
   Big Data course project, University of Trento, July 2018
