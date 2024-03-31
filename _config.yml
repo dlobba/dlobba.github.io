@@ -16,12 +16,12 @@ show_excerpts: false
 github_username: dlobba
 linkedin_username: diego-lobba
 
+header_pages:
+  - index.md
+  - projects.md
+  - contacts.md
+  - about.md
 
-# for minima 3 if (ever upgrading)
-minima:
-  social_links:
-    github: lol   
-    
 titles_from_headings:
   enabled:     true
   strip_title: true
