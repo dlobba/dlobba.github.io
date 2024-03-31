@@ -1,9 +1,3 @@
----
-published: true
-order: 1
-layout: default
----
-
 # Projects and Publications
 
 In this page you can find a list of the publications to which I have

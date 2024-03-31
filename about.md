@@ -1,8 +1,3 @@
----
-published: true
-order: 3
----
-
 # About
 
 *Hi there!*

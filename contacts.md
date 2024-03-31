@@ -1,8 +1,3 @@
----
-published: true
-order: 2
----
-
 # Contacts
 
 If you have some fancy project in mind and you are looking
