@@ -24,7 +24,7 @@ for video games and the aspiration to become a game developer,
 which motivated me enough to pursue first my bachelor at the University of Milan,
 and later my master degree in computer sciences, at the University of Trento.
 
-During both the undergraduate and graduate courses, I got
+During both the undergraduate and graduate courses I got
 fascinated by everything that was *close to the metal* and
 had the fantanstic chance to get involved with development
 of firmware protocols for wireless sensor networks.
@@ -42,9 +42,9 @@ and its link with data embedded in charts.
 The experience was shockingly good, on the one hand I had the chance
 to work on code bases that were older than me and crafted by top-notch
 engineers, on the other hand I could broaden my view besides computer
-programs intended as a artifacts per se, but as an interaction medium to other
+programs intended as a artifacts per se but as an interaction medium to other
 sources.  
-Circumstaces made me leave coding as a secondary exercise to give
+As time went by circumstaces made me leave coding as a secondary exercise to give
 focus on more organizational aspects of software development.
 Despite being an interesting exercise I was not ready for the assignment yet,
 and even less to give up on coding as my primary duty.
@@ -58,7 +58,7 @@ Being a low-level coder I was particularly scared of this role,
 but during my time at Garmin Italy Technologies I had the chance
 to get a feeling of how much work it takes to make software developers
 do their job in terms of infrastructure and company services, I therefore
-decided not to ignore this oppurtunity and it is going tremendously good so far :)
+decided not to ignore this opportunity and it is going tremendously good so far :)
 
 ... and it is all for this time around!  
 If your reached this point, I really thank you for taking
